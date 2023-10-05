@@ -1,0 +1,47 @@
+﻿  Source.cpp
+D:\New folder (2)\Project2\Bash.h(21,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(39,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(40,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(41,22): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(41,16): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(53,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(54,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(107,32): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(107,24): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(115,33): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(115,25): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(165,32): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(165,24): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(173,32): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(173,24): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(222,32): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(222,24): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(230,32): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(230,24): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(280,32): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(280,24): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(288,32): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(288,24): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(346,30): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(346,22): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(354,30): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(354,22): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(406,30): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(406,22): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(414,30): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(414,22): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(467,30): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(467,22): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(475,30): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(475,22): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(526,30): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(526,22): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(534,30): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Bash.h(534,22): warning C4244: аргумент: преобразование "float" в "const int", возможна потеря данных
+D:\New folder (2)\Project2\Source.cpp(206,37): warning C4305: аргумент: усечение из "double" в "float"
+  Создание кода
+  3 of 99 functions ( 3.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Project2.vcxproj -> D:\New folder (2)\Project2\Release\Project2.exe
